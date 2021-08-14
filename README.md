@@ -6,7 +6,7 @@
 
 This project was developed at Ironhack for Module 1. The purpose was to develop a game using canvas.
 
-Retro Pong was inspired by both the Tennis Table Sport and the original Pong game.
+Retro Pong was inspired by both the Tennis Table Sport and the original Ping Pong game.
 
 The game consists of two players that move up and down with key controls to defend their wall. Each time the ball hits the wall a +1 score goes to the player in the opposing wall with the ball's velocity increasing after each goal slightly. At the 11th goal the game stops and must be re-started to play again.
 
